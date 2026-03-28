@@ -1,0 +1,33 @@
+[
+  {
+    "repository": "vendor_xiaomi_munch",
+    "target_path": "vendor/xiaomi/munch"
+  },
+  {
+    "repository": "Mrick343/vendor_xiaomi_munch-firmware",
+    "target_path": "vendor/xiaomi/munch-firmware",
+    "remote": "codeberg",
+    "revision": "16.2"
+  },
+  {
+    "repository": "kernel_xiaomi_munch",
+    "target_path": "kernel/xiaomi/munch"
+  },
+  {
+    "repository": "Mrick343/vendor_xiaomi_miuicamera",
+    "target_path": "vendor/xiaomi/miuicamera",
+    "remote": "codeberg",
+    "revision": "16.2"
+  },
+  {
+    "repository": "hardware_dolby",
+    "target_path": "hardware/dolby",
+    "revision": "16.2-munch"
+  },
+  {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "revision": "16.2-munch"
+  }
+]
+
